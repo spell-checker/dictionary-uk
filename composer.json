@@ -1,0 +1,14 @@
+{
+	"name": "spell-checker/dictionary-uk",
+	"type": "library",
+	"description": "Ukrainian dictionary for spell-checker and PhpStorm/InteliJ",
+	"homepage": "https://github.com/spell-checker/dictionary-uk",
+	"license": ["0BSD"],
+	"authors": [
+		{
+			"name": "Vlasta Neubauer",
+			"homepage": "http://www.paranoiq.cz"
+		}
+	],
+	"require": {}
+}
